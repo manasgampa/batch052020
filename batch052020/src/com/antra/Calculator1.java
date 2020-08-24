@@ -1,6 +1,6 @@
 package com.antra;
 
-//elif
+//Ozlem
 public class Calculator1 {
 
 	public int add(int i,int j) {
